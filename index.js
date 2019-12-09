@@ -4,6 +4,6 @@ let multiply = num1 * num2
 
 let random = Math.ceil(Math.random())
 
-let mod = 8 % 2
+let mod = 24 % 20
 
-let max = [1, 15, 20]
+let max = Math.max(1, 15, 20)
