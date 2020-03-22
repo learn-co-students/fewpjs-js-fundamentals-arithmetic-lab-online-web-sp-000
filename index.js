@@ -1,6 +1,4 @@
 
-//var max - returns 20 as highest number in set
-
 const num1 = 31
 const num2 = 2
 
