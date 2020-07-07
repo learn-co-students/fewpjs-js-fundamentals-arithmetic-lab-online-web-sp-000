@@ -2,10 +2,10 @@
 
 ## Learning Goals
 
-*  Recognize the limitations of math in JavaScript
-*  Employ operators to perform arithmetic and assign values to variables
-*  Explain what `NaN` is
-*  Use built-in objects like `Math` and `Number` to accomplish complex tasks
+* Recognize the limitations of math in JavaScript
+* Employ operators to perform arithmetic and assign values to variables
+* Explain what `NaN` is
+* Use built-in objects like `Math` and `Number` to accomplish complex tasks
 
 ## Introduction
 
@@ -14,7 +14,7 @@ perform arithmetic operations in JavaScript.
 
 In the browser's JavaScript console, we can test out all of the examples in this lesson.
 Remember that we can't redeclare variables previously declared with `const` or `let`,
-so the page may have to be refreshed (which wipes away all declared variables) or 
+so the page may have to be refreshed (which wipes away all declared variables) or
 different variable names can be chosen than those in the examples.
 
 ## Recognize the Limitations of Math in JavaScript
@@ -244,7 +244,7 @@ counter++;
 ```
 
 The JavaScript engine can't add `1` to `undefined`, so it tells us the result is
-**Not a Number** — `NaN`. 
+**Not a Number** — `NaN`.
 
 **_Top Tip_**: Much like `undefined`, you should never assign `NaN` as the value
 of a variable and instead let it be a signal that some weird maths are happening
@@ -418,6 +418,7 @@ rely on the test failure messages to guide your code.
 ![Good luck](https://user-images.githubusercontent.com/17556281/28846833-e671480c-76da-11e7-9285-17b5c592e065.gif)
 
 ## Resources
+
 - MDN
   + [Basic math in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
   + [Arithmetic operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
