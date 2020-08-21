@@ -7,7 +7,7 @@ multiply = num1 * num2
 
 
 let random;
-random = Math.floor(Math.random() * 10) + 1;lea
+random = Math.floor(Math.random() * 10) + 1;
 
 let mod;
 mod = 10 % 6
