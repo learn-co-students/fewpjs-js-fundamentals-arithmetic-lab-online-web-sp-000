@@ -3,5 +3,5 @@ let num2 = 31;
 let multiply = num1 * num2
 
 let random = Math.random()
-let mod = 36/9;
+let mod = 40 % 9;
 let max = 20; 
