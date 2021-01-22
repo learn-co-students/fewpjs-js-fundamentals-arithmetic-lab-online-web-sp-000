@@ -9,4 +9,4 @@ let random = Math.floor(Math.random() * 10);
 
 let mod = 44 % 10;
 
-let max = Math.max(10, 5, 20);
+let max = Math.max(10, 5, 20); 
