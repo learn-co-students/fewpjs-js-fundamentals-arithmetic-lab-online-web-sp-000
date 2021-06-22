@@ -19,6 +19,7 @@
     "mocha-multi": "1.0.1"
   },
   "dependencies": {
+    "diff": "^3.5.0",
     "sinon": "^7.2.5"
   }
 }
